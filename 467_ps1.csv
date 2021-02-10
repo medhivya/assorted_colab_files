@@ -1,0 +1,8 @@
+Person,Fever,Vomiting,Diarrhea,Shivering,Classification
+1,No,No,No,No,Healthy
+2,Low,No,No,No,Flu
+3,High,No,No,Yes,Flu
+4,High,Yes,Yes,No,Food Poisoning
+5,Low,No,Yes,No,Food Poisoning
+6,No,Yes,Yes,No,Stomach Flu
+7,Low,Yes,Yes,No,Stomach Flu
