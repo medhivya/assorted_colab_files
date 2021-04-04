@@ -1,6 +1,6 @@
-Condition 1A, Condition 1B, Condition 2A, Condition 2B
-Gene A (1 kb), 1000, 2000, 4000, 3000
-Gene B (20 kb), 5000, 10000, 20000, 15000
-Gene C (5 kb), 1500, 3000, 12000, 9000
-Gene D (5 kb), 1000, 2000, 4000, 3000
-Total, 8500, 17000, 40000, 30000
+Read Length, Condition 1A, Condition 1B, Condition 2A, Condition 2B
+Gene A,1, 1000, 2000, 4000, 3000
+Gene B,20, 5000, 10000, 20000, 15000
+Gene C,5, 1500, 3000, 12000, 9000
+Gene D,5, 1000, 2000, 4000, 3000
+Total,null, 8500, 17000, 40000, 30000
