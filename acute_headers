@@ -1,3 +1,4 @@
+Attribute Name Type
 @attribute state numeric
 @attribute county numeric
 @attribute community numeric
