@@ -1,0 +1,7 @@
+1 Birch $15/sheet
+2 Arcylic $13/sheet
+3 Museum board $5/sheet
+4 Foam $13/sheet
+5 Cardboard $5/sheet
+6 Chipboard $13/sheet
+7 Polycarb $7/sheet
